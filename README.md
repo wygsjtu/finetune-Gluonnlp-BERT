@@ -15,3 +15,15 @@ Course project of EE398 in SJTU.
 - Running the script will make inference prediction on an input paragraph of words or sentences, and output the label corresponding to the prediction result. The output information for running the finetune_evaluator.py and finetune_evaluater52.py scripts is recorded in the /loginfo folder.
 ## Datasets
 [WebKB dataset](http://www.google.com/url?q=http%3A%2F%2Fwww.cs.cmu.edu%2Fafs%2Fcs.cmu.edu%2Fproject%2Ftheo-20%2Fwww%2Fdata%2F&sa=D&sntz=1&usg=AFQjCNEOrlUR_oci7gC1zHrEjGG7ujksqQ) and [Reuters 21578 dataset](http://www.google.com/url?q=http%3A%2F%2Fwww.daviddlewis.com%2Fresources%2Ftestcollections%2Freuters21578%2F&sa=D&sntz=1&usg=AFQjCNEaq3FcnH_SctlxbLcIWWehjWDpFA) can be downloaded [here](https://drive.google.com/drive/folders/1p3-IeJ1MMAdtjBEtOj3RMIvuYtaGkjpi?usp=sharing)
+
+| Dataset | Number of classes | Training set | Testing set |
+| ------ | ------ | ------ | ------ |
+| WebKB | 4 | 900 | 496 |
+| Reuters 21578 | 52 | 1800 | 768 |
+
+## Performance & Accuracy
+
+| Dataset | Inference speed (on CPU) | Training precision | Testing precision |
+| ------ | ------ | ------ | ------ |
+| WebKB | 1.64 samples/s | 0.847 | 0.845 |
+| Reuters 21578 | 1.59 samples/s | 0.761 | 0.785 |
