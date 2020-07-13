@@ -14,7 +14,7 @@ Course project of EE398 in SJTU.
 - On the basis of saving the weight of the model, we realized the interaction function in the [interaction.py](https://github.com/wygsjtu/finetune-Gluonnlp-BERT/blob/master/src/interaction.py) script. 
 - Running the script will make inference prediction on an input paragraph of words or sentences, and output the label corresponding to the prediction result. The output information for running the finetune_evaluator.py and finetune_evaluater52.py scripts is recorded in the /loginfo folder.
 ## Datasets
-[WebKB dataset](http://www.google.com/url?q=http%3A%2F%2Fwww.cs.cmu.edu%2Fafs%2Fcs.cmu.edu%2Fproject%2Ftheo-20%2Fwww%2Fdata%2F&sa=D&sntz=1&usg=AFQjCNEOrlUR_oci7gC1zHrEjGG7ujksqQ) and [Reuters 21578 dataset](http://www.google.com/url?q=http%3A%2F%2Fwww.daviddlewis.com%2Fresources%2Ftestcollections%2Freuters21578%2F&sa=D&sntz=1&usg=AFQjCNEaq3FcnH_SctlxbLcIWWehjWDpFA) can be downloaded [here](https://drive.google.com/drive/folders/1p3-IeJ1MMAdtjBEtOj3RMIvuYtaGkjpi?usp=sharing)
+[WebKB dataset](http://www.google.com/url?q=http%3A%2F%2Fwww.cs.cmu.edu%2Fafs%2Fcs.cmu.edu%2Fproject%2Ftheo-20%2Fwww%2Fdata%2F&sa=D&sntz=1&usg=AFQjCNEOrlUR_oci7gC1zHrEjGG7ujksqQ) and [Reuters 21578 dataset](http://www.google.com/url?q=http%3A%2F%2Fwww.daviddlewis.com%2Fresources%2Ftestcollections%2Freuters21578%2F&sa=D&sntz=1&usg=AFQjCNEaq3FcnH_SctlxbLcIWWehjWDpFA) can be downloaded [here](https://drive.google.com/drive/folders/1p3-IeJ1MMAdtjBEtOj3RMIvuYtaGkjpi?usp=sharing).
 
 | Dataset | Number of classes | Training set | Testing set |
 | ------ | ------ | ------ | ------ |
