@@ -22,8 +22,21 @@ Course project of EE398 in SJTU.
 | Reuters 21578 | 52 | 1800 | 768 |
 
 ## Performance & Accuracy
+Inference speed:
 
-| Dataset | Inference speed (on CPU) | Training precision | Testing precision |
-| ------ | ------ | ------ | ------ |
-| WebKB | 1.64 samples/s | 0.847 | 0.845 |
-| Reuters 21578 | 1.59 samples/s | 0.761 | 0.785 |
+| WebKB | bert_12_768_12 | bert_24_1024_16 |
+| ------ | ------ | ------ |
+| CPU | 1.64 samples/s | 0.52 samples/s |
+| GPU | 114.49 samples/s | 34.83 samples/s |
+
+| Reuters 21578 | bert_12_768_12 | bert_24_1024_16 |
+| ------ | ------ | ------ |
+| CPU | 1.59 samples/s | 0.52 samples/s |
+| GPU | 118.03 samples/s | 35.16 samples/s |
+
+The accuracy is much better on bert large than on bert base. 
+
+| Accuracy | bert_12_768_12 | bert_24_1024_16 |
+| ------ | ------ | ------ |
+| WebKB | 0.836 | 0.914 |
+| Reuters 21578 | 0.786 | 0.847 |
