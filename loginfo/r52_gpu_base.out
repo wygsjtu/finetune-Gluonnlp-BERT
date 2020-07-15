@@ -1,0 +1,134 @@
+Downloading /home/ubuntu/.mxnet/models/bert_12_768_12_book_corpus_wiki_en_uncased-75cc780f.zip04ce4456-9773-49bb-be34-52e1d9bb3ac3 from https://apache-mxnet.s3-accelerate.dualstack.amazonaws.com/gluon/models/bert_12_768_12_book_corpus_wiki_en_uncased-75cc780f.zip...
+[Epoch 0 Batch 4/117] loss=3.7650, lr=0.0000050, acc=0.000
+[Epoch 0 Batch 8/117] loss=3.5556, lr=0.0000050, acc=0.000
+[Epoch 0 Batch 12/117] loss=3.7015, lr=0.0000050, acc=0.005
+[Epoch 0 Batch 16/117] loss=3.4534, lr=0.0000050, acc=0.017
+[Epoch 0 Batch 20/117] loss=3.4935, lr=0.0000050, acc=0.057
+[Epoch 0 Batch 24/117] loss=3.1815, lr=0.0000050, acc=0.108
+[Epoch 0 Batch 28/117] loss=3.2349, lr=0.0000050, acc=0.162
+[Epoch 0 Batch 32/117] loss=3.5188, lr=0.0000050, acc=0.175
+[Epoch 0 Batch 36/117] loss=3.1249, lr=0.0000050, acc=0.221
+[Epoch 0 Batch 40/117] loss=3.0975, lr=0.0000050, acc=0.247
+[Epoch 0 Batch 44/117] loss=3.1867, lr=0.0000050, acc=0.262
+[Epoch 0 Batch 48/117] loss=3.0102, lr=0.0000050, acc=0.284
+[Epoch 0 Batch 52/117] loss=2.7775, lr=0.0000050, acc=0.314
+[Epoch 0 Batch 56/117] loss=2.8580, lr=0.0000050, acc=0.333
+[Epoch 0 Batch 60/117] loss=2.7646, lr=0.0000050, acc=0.355
+[Epoch 0 Batch 64/117] loss=3.0028, lr=0.0000050, acc=0.360
+[Epoch 0 Batch 68/117] loss=2.8176, lr=0.0000050, acc=0.374
+[Epoch 0 Batch 72/117] loss=2.8999, lr=0.0000050, acc=0.381
+[Epoch 0 Batch 76/117] loss=2.4482, lr=0.0000050, acc=0.400
+[Epoch 0 Batch 80/117] loss=2.6240, lr=0.0000050, acc=0.411
+[Epoch 0 Batch 84/117] loss=2.6621, lr=0.0000050, acc=0.420
+[Epoch 0 Batch 88/117] loss=2.4070, lr=0.0000050, acc=0.434
+[Epoch 0 Batch 92/117] loss=2.9590, lr=0.0000050, acc=0.430
+[Epoch 0 Batch 96/117] loss=2.4862, lr=0.0000050, acc=0.432
+[Epoch 0 Batch 100/117] loss=2.4383, lr=0.0000050, acc=0.437
+[Epoch 0 Batch 104/117] loss=2.7211, lr=0.0000050, acc=0.440
+[Epoch 0 Batch 108/117] loss=2.1433, lr=0.0000050, acc=0.450
+[Epoch 0 Batch 112/117] loss=2.0624, lr=0.0000050, acc=0.462
+[Epoch 0 Batch 116/117] loss=2.1887, lr=0.0000050, acc=0.470
+[Epoch 1 Batch 4/117] loss=2.5134, lr=0.0000050, acc=0.537
+[Epoch 1 Batch 8/117] loss=2.4512, lr=0.0000050, acc=0.534
+[Epoch 1 Batch 12/117] loss=1.8761, lr=0.0000050, acc=0.585
+[Epoch 1 Batch 16/117] loss=2.4530, lr=0.0000050, acc=0.566
+[Epoch 1 Batch 20/117] loss=1.9800, lr=0.0000050, acc=0.582
+[Epoch 1 Batch 24/117] loss=2.0866, lr=0.0000050, acc=0.587
+[Epoch 1 Batch 28/117] loss=2.0576, lr=0.0000050, acc=0.597
+[Epoch 1 Batch 32/117] loss=2.0223, lr=0.0000050, acc=0.605
+[Epoch 1 Batch 36/117] loss=2.2418, lr=0.0000050, acc=0.598
+[Epoch 1 Batch 40/117] loss=1.8719, lr=0.0000050, acc=0.609
+[Epoch 1 Batch 44/117] loss=1.6742, lr=0.0000050, acc=0.620
+[Epoch 1 Batch 48/117] loss=1.7480, lr=0.0000050, acc=0.628
+[Epoch 1 Batch 52/117] loss=1.3854, lr=0.0000050, acc=0.645
+[Epoch 1 Batch 56/117] loss=1.9459, lr=0.0000050, acc=0.645
+[Epoch 1 Batch 60/117] loss=2.1121, lr=0.0000050, acc=0.640
+[Epoch 1 Batch 64/117] loss=1.4005, lr=0.0000050, acc=0.650
+[Epoch 1 Batch 68/117] loss=1.3380, lr=0.0000050, acc=0.659
+[Epoch 1 Batch 72/117] loss=2.2363, lr=0.0000050, acc=0.652
+[Epoch 1 Batch 76/117] loss=2.0559, lr=0.0000050, acc=0.652
+[Epoch 1 Batch 80/117] loss=1.5614, lr=0.0000050, acc=0.657
+[Epoch 1 Batch 84/117] loss=1.4871, lr=0.0000050, acc=0.661
+[Epoch 1 Batch 88/117] loss=1.4407, lr=0.0000050, acc=0.664
+[Epoch 1 Batch 92/117] loss=1.9987, lr=0.0000050, acc=0.662
+[Epoch 1 Batch 96/117] loss=1.8490, lr=0.0000050, acc=0.662
+[Epoch 1 Batch 100/117] loss=1.5285, lr=0.0000050, acc=0.663
+[Epoch 1 Batch 104/117] loss=1.7280, lr=0.0000050, acc=0.663
+[Epoch 1 Batch 108/117] loss=1.7997, lr=0.0000050, acc=0.662
+[Epoch 1 Batch 112/117] loss=2.0049, lr=0.0000050, acc=0.658
+[Epoch 1 Batch 116/117] loss=1.7929, lr=0.0000050, acc=0.657
+[Epoch 2 Batch 4/117] loss=1.5463, lr=0.0000050, acc=0.703
+[Epoch 2 Batch 8/117] loss=0.8663, lr=0.0000050, acc=0.789
+[Epoch 2 Batch 12/117] loss=1.9360, lr=0.0000050, acc=0.719
+[Epoch 2 Batch 16/117] loss=1.3888, lr=0.0000050, acc=0.727
+[Epoch 2 Batch 20/117] loss=1.0720, lr=0.0000050, acc=0.741
+[Epoch 2 Batch 24/117] loss=2.0002, lr=0.0000050, acc=0.719
+[Epoch 2 Batch 28/117] loss=1.2744, lr=0.0000050, acc=0.719
+[Epoch 2 Batch 32/117] loss=1.5031, lr=0.0000050, acc=0.717
+[Epoch 2 Batch 36/117] loss=1.2995, lr=0.0000050, acc=0.728
+[Epoch 2 Batch 40/117] loss=1.1409, lr=0.0000050, acc=0.732
+[Epoch 2 Batch 44/117] loss=1.7389, lr=0.0000050, acc=0.720
+[Epoch 2 Batch 48/117] loss=2.0341, lr=0.0000050, acc=0.707
+[Epoch 2 Batch 52/117] loss=0.7821, lr=0.0000050, acc=0.719
+[Epoch 2 Batch 56/117] loss=1.3959, lr=0.0000050, acc=0.719
+[Epoch 2 Batch 60/117] loss=1.6333, lr=0.0000050, acc=0.717
+[Epoch 2 Batch 64/117] loss=0.8598, lr=0.0000050, acc=0.725
+[Epoch 2 Batch 68/117] loss=1.0019, lr=0.0000050, acc=0.729
+[Epoch 2 Batch 72/117] loss=1.3587, lr=0.0000050, acc=0.730
+[Epoch 2 Batch 76/117] loss=1.4683, lr=0.0000050, acc=0.728
+[Epoch 2 Batch 80/117] loss=1.4535, lr=0.0000050, acc=0.725
+[Epoch 2 Batch 84/117] loss=0.8132, lr=0.0000050, acc=0.731
+[Epoch 2 Batch 88/117] loss=1.6416, lr=0.0000050, acc=0.726
+[Epoch 2 Batch 92/117] loss=1.2891, lr=0.0000050, acc=0.725
+[Epoch 2 Batch 96/117] loss=0.8998, lr=0.0000050, acc=0.731
+[Epoch 2 Batch 100/117] loss=2.0403, lr=0.0000050, acc=0.722
+[Epoch 2 Batch 104/117] loss=1.2723, lr=0.0000050, acc=0.723
+[Epoch 2 Batch 108/117] loss=0.8955, lr=0.0000050, acc=0.728
+[Epoch 2 Batch 112/117] loss=1.6043, lr=0.0000050, acc=0.726
+[Epoch 2 Batch 116/117] loss=2.0175, lr=0.0000050, acc=0.721
+[Epoch 3 Batch 4/117] loss=1.4374, lr=0.0000050, acc=0.703
+[Epoch 3 Batch 8/117] loss=0.8301, lr=0.0000050, acc=0.776
+[Epoch 3 Batch 12/117] loss=1.3000, lr=0.0000050, acc=0.751
+[Epoch 3 Batch 16/117] loss=0.6790, lr=0.0000050, acc=0.771
+[Epoch 3 Batch 20/117] loss=1.6513, lr=0.0000050, acc=0.759
+[Epoch 3 Batch 24/117] loss=0.9608, lr=0.0000050, acc=0.766
+[Epoch 3 Batch 28/117] loss=1.4141, lr=0.0000050, acc=0.757
+[Epoch 3 Batch 32/117] loss=1.0412, lr=0.0000050, acc=0.766
+[Epoch 3 Batch 36/117] loss=1.3445, lr=0.0000050, acc=0.770
+[Epoch 3 Batch 40/117] loss=1.3962, lr=0.0000050, acc=0.763
+[Epoch 3 Batch 44/117] loss=0.7891, lr=0.0000050, acc=0.772
+[Epoch 3 Batch 48/117] loss=0.9634, lr=0.0000050, acc=0.776
+[Epoch 3 Batch 52/117] loss=1.4897, lr=0.0000050, acc=0.767
+[Epoch 3 Batch 56/117] loss=1.0601, lr=0.0000050, acc=0.769
+[Epoch 3 Batch 60/117] loss=0.8718, lr=0.0000050, acc=0.774
+[Epoch 3 Batch 64/117] loss=1.0320, lr=0.0000050, acc=0.775
+[Epoch 3 Batch 68/117] loss=0.9704, lr=0.0000050, acc=0.775
+[Epoch 3 Batch 72/117] loss=1.1947, lr=0.0000050, acc=0.771
+[Epoch 3 Batch 76/117] loss=1.0657, lr=0.0000050, acc=0.772
+[Epoch 3 Batch 80/117] loss=0.9542, lr=0.0000050, acc=0.773
+[Epoch 3 Batch 84/117] loss=1.4370, lr=0.0000050, acc=0.770
+[Epoch 3 Batch 88/117] loss=1.6591, lr=0.0000050, acc=0.765
+[Epoch 3 Batch 92/117] loss=1.0941, lr=0.0000050, acc=0.766
+[Epoch 3 Batch 96/117] loss=0.9756, lr=0.0000050, acc=0.766
+[Epoch 3 Batch 100/117] loss=0.9404, lr=0.0000050, acc=0.767
+[Epoch 3 Batch 104/117] loss=1.3553, lr=0.0000050, acc=0.764
+[Epoch 3 Batch 108/117] loss=1.0161, lr=0.0000050, acc=0.765
+[Epoch 3 Batch 112/117] loss=1.0754, lr=0.0000050, acc=0.765
+[Epoch 3 Batch 116/117] loss=1.7852, lr=0.0000050, acc=0.760
+Saving model at  ./model_bert_r52_base
+load symbol file directly as SymbolBlock for model deployment.
+[Batch 4/53], acc = 0.763
+[Batch 8/53], acc = 0.767
+[Batch 12/53], acc = 0.767
+[Batch 16/53], acc = 0.770
+[Batch 20/53], acc = 0.772
+[Batch 24/53], acc = 0.773
+[Batch 28/53], acc = 0.774
+[Batch 32/53], acc = 0.779
+[Batch 36/53], acc = 0.782
+[Batch 40/53], acc = 0.784
+[Batch 44/53], acc = 0.782
+[Batch 48/53], acc = 0.782
+[Batch 52/53], acc = 0.785
+EvalMetric: {'accuracy': 0.7862149532710281}
+Time cost = 7.18 s, throughput = 118.03 samples/s

@@ -1,0 +1,73 @@
+[Epoch 0 Batch 4/61] loss=1.4252, lr=0.0000050, acc=0.344
+[Epoch 0 Batch 8/61] loss=1.3254, lr=0.0000050, acc=0.352
+[Epoch 0 Batch 12/61] loss=1.2338, lr=0.0000050, acc=0.388
+[Epoch 0 Batch 16/61] loss=1.2293, lr=0.0000050, acc=0.417
+[Epoch 0 Batch 20/61] loss=1.2341, lr=0.0000050, acc=0.424
+[Epoch 0 Batch 24/61] loss=1.1572, lr=0.0000050, acc=0.428
+[Epoch 0 Batch 28/61] loss=1.2206, lr=0.0000050, acc=0.435
+[Epoch 0 Batch 32/61] loss=1.1110, lr=0.0000050, acc=0.447
+[Epoch 0 Batch 36/61] loss=1.2519, lr=0.0000050, acc=0.434
+[Epoch 0 Batch 40/61] loss=1.1536, lr=0.0000050, acc=0.441
+[Epoch 0 Batch 44/61] loss=1.0937, lr=0.0000050, acc=0.450
+[Epoch 0 Batch 48/61] loss=1.1879, lr=0.0000050, acc=0.456
+[Epoch 0 Batch 52/61] loss=1.1280, lr=0.0000050, acc=0.460
+[Epoch 0 Batch 56/61] loss=1.0034, lr=0.0000050, acc=0.463
+[Epoch 0 Batch 60/61] loss=1.1267, lr=0.0000050, acc=0.459
+[Epoch 1 Batch 4/61] loss=1.0182, lr=0.0000050, acc=0.608
+[Epoch 1 Batch 8/61] loss=0.9717, lr=0.0000050, acc=0.613
+[Epoch 1 Batch 12/61] loss=0.9849, lr=0.0000050, acc=0.620
+[Epoch 1 Batch 16/61] loss=0.9394, lr=0.0000050, acc=0.626
+[Epoch 1 Batch 20/61] loss=0.9256, lr=0.0000050, acc=0.634
+[Epoch 1 Batch 24/61] loss=1.0075, lr=0.0000050, acc=0.638
+[Epoch 1 Batch 28/61] loss=0.8060, lr=0.0000050, acc=0.657
+[Epoch 1 Batch 32/61] loss=0.8573, lr=0.0000050, acc=0.659
+[Epoch 1 Batch 36/61] loss=0.9258, lr=0.0000050, acc=0.660
+[Epoch 1 Batch 40/61] loss=0.7826, lr=0.0000050, acc=0.663
+[Epoch 1 Batch 44/61] loss=0.6991, lr=0.0000050, acc=0.680
+[Epoch 1 Batch 48/61] loss=0.8184, lr=0.0000050, acc=0.684
+[Epoch 1 Batch 52/61] loss=0.7427, lr=0.0000050, acc=0.689
+[Epoch 1 Batch 56/61] loss=0.7020, lr=0.0000050, acc=0.691
+[Epoch 1 Batch 60/61] loss=0.7199, lr=0.0000050, acc=0.696
+[Epoch 2 Batch 4/61] loss=0.6206, lr=0.0000050, acc=0.800
+[Epoch 2 Batch 8/61] loss=0.5334, lr=0.0000050, acc=0.833
+[Epoch 2 Batch 12/61] loss=0.5670, lr=0.0000050, acc=0.837
+[Epoch 2 Batch 16/61] loss=0.5295, lr=0.0000050, acc=0.839
+[Epoch 2 Batch 20/61] loss=0.6211, lr=0.0000050, acc=0.830
+[Epoch 2 Batch 24/61] loss=0.5622, lr=0.0000050, acc=0.832
+[Epoch 2 Batch 28/61] loss=0.5877, lr=0.0000050, acc=0.827
+[Epoch 2 Batch 32/61] loss=0.5603, lr=0.0000050, acc=0.827
+[Epoch 2 Batch 36/61] loss=0.6414, lr=0.0000050, acc=0.827
+[Epoch 2 Batch 40/61] loss=0.4248, lr=0.0000050, acc=0.834
+[Epoch 2 Batch 44/61] loss=0.5378, lr=0.0000050, acc=0.841
+[Epoch 2 Batch 48/61] loss=0.7387, lr=0.0000050, acc=0.841
+[Epoch 2 Batch 52/61] loss=0.4380, lr=0.0000050, acc=0.843
+[Epoch 2 Batch 56/61] loss=0.4687, lr=0.0000050, acc=0.840
+[Epoch 2 Batch 60/61] loss=0.4007, lr=0.0000050, acc=0.844
+[Epoch 3 Batch 4/61] loss=0.2116, lr=0.0000050, acc=1.000
+[Epoch 3 Batch 8/61] loss=0.3102, lr=0.0000050, acc=0.953
+[Epoch 3 Batch 12/61] loss=0.2910, lr=0.0000050, acc=0.947
+[Epoch 3 Batch 16/61] loss=0.3449, lr=0.0000050, acc=0.932
+[Epoch 3 Batch 20/61] loss=0.2602, lr=0.0000050, acc=0.933
+[Epoch 3 Batch 24/61] loss=0.3425, lr=0.0000050, acc=0.935
+[Epoch 3 Batch 28/61] loss=0.2426, lr=0.0000050, acc=0.936
+[Epoch 3 Batch 32/61] loss=0.2808, lr=0.0000050, acc=0.938
+[Epoch 3 Batch 36/61] loss=0.2820, lr=0.0000050, acc=0.936
+[Epoch 3 Batch 40/61] loss=0.3237, lr=0.0000050, acc=0.933
+[Epoch 3 Batch 44/61] loss=0.4601, lr=0.0000050, acc=0.928
+[Epoch 3 Batch 48/61] loss=0.3490, lr=0.0000050, acc=0.919
+[Epoch 3 Batch 52/61] loss=0.2097, lr=0.0000050, acc=0.922
+[Epoch 3 Batch 56/61] loss=0.2076, lr=0.0000050, acc=0.924
+[Epoch 3 Batch 60/61] loss=0.3257, lr=0.0000050, acc=0.924
+Saving model at  ./model_bert_webkb_large
+load symbol file directly as SymbolBlock for model deployment.
+[Batch 4/36], acc = 0.925
+[Batch 8/36], acc = 0.922
+[Batch 12/36], acc = 0.926
+[Batch 16/36], acc = 0.921
+[Batch 20/36], acc = 0.921
+[Batch 24/36], acc = 0.920
+[Batch 28/36], acc = 0.916
+[Batch 32/36], acc = 0.912
+[Batch 36/36], acc = 0.914
+EvalMetric: {'accuracy': 0.9140401146131805}
+Time cost = 16.54 s, throughput = 34.83 samples/s
