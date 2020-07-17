@@ -1,7 +1,6 @@
 import warnings
 warnings.filterwarnings('ignore')
 
-import random
 import numpy as np
 import mxnet as mx
 import gluonnlp as nlp
@@ -12,14 +11,12 @@ import os, sys
 import numpy as np
 from tkinter import *
 import tkinter.messagebox
-from random import random
 from math import sqrt
 import time
 import random
 
 root = Tk()
 root.wm_title('myWindow')
-
 all_labels = ["student", "course", "faculty", "project"]
 
 def _quit():
@@ -33,15 +30,16 @@ def p1():
    data0 = pd.DataFrame(data0)
    data0.to_csv("toy0.tsv", index = False, sep = '\t')
    data1 = [[all_labels[1], toy]]
-   data1 = pd.DataFrame(data0)
+   data1 = pd.DataFrame(data1)
    data1.to_csv("toy1.tsv", index = False, sep = '\t')
    data2 = [[all_labels[2], toy]]
-   data2 = pd.DataFrame(data0)
+   data2 = pd.DataFrame(data2)
    data2.to_csv("toy2.tsv", index = False, sep = '\t')
    data3 = [[all_labels[3], toy]]
-   data3 = pd.DataFrame(data0)
+   data3 = pd.DataFrame(data3)
    data3.to_csv("toy3.tsv", index = False, sep = '\t')
    
+   bert_testloader0, bert_testloader1, bert_testloader2, bert_testloader3 = data_process()
    eval_metric = []
    start = time.time()
    eval_metric.append(predict(prefix, bert_testloader0, 0))
@@ -49,6 +47,7 @@ def p1():
    eval_metric.append(predict(prefix, bert_testloader2, 0))
    eval_metric.append(predict(prefix, bert_testloader3, 0))
    end = time.time()
+   print(eval_metric)
    predict_result = all_labels[eval_metric.index(max(eval_metric))]
    Timecost = end - start
    Timecost = round(Timecost,2)
@@ -70,59 +69,61 @@ ctx = mx.cpu()
 
 batch_size = 1
 log_interval = 1
-bert_base, vocabulary = nlp.model.get_model('bert_12_768_12',
+def data_process():
+    bert_base, vocabulary = nlp.model.get_model('bert_12_768_12',
                                              dataset_name='book_corpus_wiki_en_uncased',
                                              pretrained=True, ctx=ctx, use_pooler=True,
                                              use_decoder=False, use_classifier=False)
-num_discard_samples = 1
-field_separator = nlp.data.Splitter('\t')
-field_indices = [1, 0]
-bert_tokenizer = nlp.data.BERTTokenizer(vocabulary, lower=True)
-max_len = 128
-transform = data.transform.BERTDatasetTransform(bert_tokenizer, max_len,
+    num_discard_samples = 1
+    field_separator = nlp.data.Splitter('\t')
+    field_indices = [1, 0]
+    bert_tokenizer = nlp.data.BERTTokenizer(vocabulary, lower=True)
+    max_len = 128
+    transform = data.transform.BERTDatasetTransform(bert_tokenizer, max_len,
                                                 class_labels=all_labels,
                                                 has_label=True,
                                                 pad=True,
                                                 pair=False)
 												
-data_test_raw0 = nlp.data.TSVDataset(filename='toy0.tsv',
+    data_test_raw0 = nlp.data.TSVDataset(filename='toy0.tsv',
                                  field_separator=field_separator,
                                  num_discard_samples=num_discard_samples,
                                  field_indices=field_indices)
-data_test0 = data_test_raw0.transform(transform)
-test_sampler0 = nlp.data.FixedBucketSampler(lengths=[int(item[2]) for item in data_test0],
+    data_test0 = data_test_raw0.transform(transform)
+    test_sampler0 = nlp.data.FixedBucketSampler(lengths=[int(item[2]) for item in data_test0],
                                             batch_size=batch_size,
                                             shuffle=True)
-bert_testloader0 = mx.gluon.data.DataLoader(data_test0, batch_sampler=test_sampler0)
+    bert_testloader0 = mx.gluon.data.DataLoader(data_test0, batch_sampler=test_sampler0)
 
-data_test_raw1 = nlp.data.TSVDataset(filename='toy1.tsv',
+    data_test_raw1 = nlp.data.TSVDataset(filename='toy1.tsv',
                                  field_separator=field_separator,
                                  num_discard_samples=num_discard_samples,
                                  field_indices=field_indices)
-data_test1 = data_test_raw0.transform(transform)
-test_sampler1 = nlp.data.FixedBucketSampler(lengths=[int(item[2]) for item in data_test1],
+    data_test1 = data_test_raw0.transform(transform)
+    test_sampler1 = nlp.data.FixedBucketSampler(lengths=[int(item[2]) for item in data_test1],
                                             batch_size=batch_size,
                                             shuffle=True)
-bert_testloader1 = mx.gluon.data.DataLoader(data_test0, batch_sampler=test_sampler1)
+    bert_testloader1 = mx.gluon.data.DataLoader(data_test0, batch_sampler=test_sampler1)
 
-data_test_raw2 = nlp.data.TSVDataset(filename='toy2.tsv',
+    data_test_raw2 = nlp.data.TSVDataset(filename='toy2.tsv',
                                  field_separator=field_separator,
                                  num_discard_samples=num_discard_samples,
                                  field_indices=field_indices)
-data_test2 = data_test_raw2.transform(transform)
-test_sampler2 = nlp.data.FixedBucketSampler(lengths=[int(item[2]) for item in data_test2],
+    data_test2 = data_test_raw2.transform(transform)
+    test_sampler2 = nlp.data.FixedBucketSampler(lengths=[int(item[2]) for item in data_test2],
                                             batch_size=batch_size,
                                             shuffle=True)
-bert_testloader2 = mx.gluon.data.DataLoader(data_test2, batch_sampler=test_sampler2)
-data_test_raw3 = nlp.data.TSVDataset(filename='toy3.tsv',
+    bert_testloader2 = mx.gluon.data.DataLoader(data_test2, batch_sampler=test_sampler2)
+    data_test_raw3 = nlp.data.TSVDataset(filename='toy3.tsv',
                                  field_separator=field_separator,
                                  num_discard_samples=num_discard_samples,
                                  field_indices=field_indices)
-data_test3 = data_test_raw3.transform(transform)
-test_sampler3 = nlp.data.FixedBucketSampler(lengths=[int(item[2]) for item in data_test3],
+    data_test3 = data_test_raw3.transform(transform)
+    test_sampler3 = nlp.data.FixedBucketSampler(lengths=[int(item[2]) for item in data_test3],
                                             batch_size=batch_size,
                                             shuffle=True)
-bert_testloader3 = mx.gluon.data.DataLoader(data_test3, batch_sampler=test_sampler3)
+    bert_testloader3 = mx.gluon.data.DataLoader(data_test3, batch_sampler=test_sampler3)
+    return bert_testloader0, bert_testloader1, bert_testloader2, bert_testloader3
 
 prefix = './model_bert_webkb'
 metric = mx.metric.Accuracy()
