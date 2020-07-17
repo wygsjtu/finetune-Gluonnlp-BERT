@@ -15,13 +15,13 @@ data0 = [[all_labels[0], toy]]
 data0 = pd.DataFrame(data0)
 data0.to_csv("toy0.tsv", index = False, sep = '\t')
 data1 = [[all_labels[1], toy]]
-data1 = pd.DataFrame(data0)
+data1 = pd.DataFrame(data1)
 data1.to_csv("toy1.tsv", index = False, sep = '\t')
 data2 = [[all_labels[2], toy]]
-data2 = pd.DataFrame(data0)
+data2 = pd.DataFrame(data2)
 data2.to_csv("toy2.tsv", index = False, sep = '\t')
 data3 = [[all_labels[3], toy]]
-data3 = pd.DataFrame(data0)
+data3 = pd.DataFrame(data3)
 data3.to_csv("toy3.tsv", index = False, sep = '\t')
 
 np.random.seed(100)
