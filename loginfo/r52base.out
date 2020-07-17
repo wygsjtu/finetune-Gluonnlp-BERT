@@ -1,0 +1,457 @@
+[Epoch 0 Batch 4/414] loss=3.7131, lr=0.0000050, acc=0.000
+[Epoch 0 Batch 8/414] loss=3.6070, lr=0.0000050, acc=0.008
+[Epoch 0 Batch 12/414] loss=3.6605, lr=0.0000050, acc=0.021
+[Epoch 0 Batch 16/414] loss=3.5284, lr=0.0000050, acc=0.051
+[Epoch 0 Batch 20/414] loss=3.4337, lr=0.0000050, acc=0.103
+[Epoch 0 Batch 24/414] loss=3.1944, lr=0.0000050, acc=0.148
+[Epoch 0 Batch 28/414] loss=3.1045, lr=0.0000050, acc=0.194
+[Epoch 0 Batch 32/414] loss=3.1265, lr=0.0000050, acc=0.220
+[Epoch 0 Batch 36/414] loss=3.1618, lr=0.0000050, acc=0.229
+[Epoch 0 Batch 40/414] loss=2.8793, lr=0.0000050, acc=0.246
+[Epoch 0 Batch 44/414] loss=3.0418, lr=0.0000050, acc=0.261
+[Epoch 0 Batch 48/414] loss=2.8170, lr=0.0000050, acc=0.285
+[Epoch 0 Batch 52/414] loss=2.7426, lr=0.0000050, acc=0.303
+[Epoch 0 Batch 56/414] loss=2.6965, lr=0.0000050, acc=0.321
+[Epoch 0 Batch 60/414] loss=2.9625, lr=0.0000050, acc=0.318
+[Epoch 0 Batch 64/414] loss=3.1095, lr=0.0000050, acc=0.322
+[Epoch 0 Batch 68/414] loss=2.6987, lr=0.0000050, acc=0.330
+[Epoch 0 Batch 72/414] loss=2.6337, lr=0.0000050, acc=0.342
+[Epoch 0 Batch 76/414] loss=2.6116, lr=0.0000050, acc=0.354
+[Epoch 0 Batch 80/414] loss=2.7878, lr=0.0000050, acc=0.352
+[Epoch 0 Batch 84/414] loss=2.2119, lr=0.0000050, acc=0.365
+[Epoch 0 Batch 88/414] loss=2.4764, lr=0.0000050, acc=0.369
+[Epoch 0 Batch 92/414] loss=2.4299, lr=0.0000050, acc=0.373
+[Epoch 0 Batch 96/414] loss=2.6705, lr=0.0000050, acc=0.371
+[Epoch 0 Batch 100/414] loss=2.2707, lr=0.0000050, acc=0.378
+[Epoch 0 Batch 104/414] loss=2.1024, lr=0.0000050, acc=0.390
+[Epoch 0 Batch 108/414] loss=2.3912, lr=0.0000050, acc=0.396
+[Epoch 0 Batch 112/414] loss=2.0059, lr=0.0000050, acc=0.408
+[Epoch 0 Batch 116/414] loss=2.5815, lr=0.0000050, acc=0.409
+[Epoch 0 Batch 120/414] loss=2.0626, lr=0.0000050, acc=0.418
+[Epoch 0 Batch 124/414] loss=2.4988, lr=0.0000050, acc=0.421
+[Epoch 0 Batch 128/414] loss=2.3356, lr=0.0000050, acc=0.425
+[Epoch 0 Batch 132/414] loss=1.8877, lr=0.0000050, acc=0.435
+[Epoch 0 Batch 136/414] loss=2.1842, lr=0.0000050, acc=0.441
+[Epoch 0 Batch 140/414] loss=1.8364, lr=0.0000050, acc=0.448
+[Epoch 0 Batch 144/414] loss=1.9911, lr=0.0000050, acc=0.454
+[Epoch 0 Batch 148/414] loss=2.1060, lr=0.0000050, acc=0.458
+[Epoch 0 Batch 152/414] loss=1.9424, lr=0.0000050, acc=0.463
+[Epoch 0 Batch 156/414] loss=1.8884, lr=0.0000050, acc=0.469
+[Epoch 0 Batch 160/414] loss=2.2521, lr=0.0000050, acc=0.471
+[Epoch 0 Batch 164/414] loss=1.7712, lr=0.0000050, acc=0.478
+[Epoch 0 Batch 168/414] loss=2.0135, lr=0.0000050, acc=0.481
+[Epoch 0 Batch 172/414] loss=1.4532, lr=0.0000050, acc=0.489
+[Epoch 0 Batch 176/414] loss=1.7070, lr=0.0000050, acc=0.492
+[Epoch 0 Batch 180/414] loss=1.5068, lr=0.0000050, acc=0.498
+[Epoch 0 Batch 184/414] loss=2.3143, lr=0.0000050, acc=0.498
+[Epoch 0 Batch 188/414] loss=1.1611, lr=0.0000050, acc=0.505
+[Epoch 0 Batch 192/414] loss=1.9692, lr=0.0000050, acc=0.508
+[Epoch 0 Batch 196/414] loss=1.6374, lr=0.0000050, acc=0.511
+[Epoch 0 Batch 200/414] loss=1.8316, lr=0.0000050, acc=0.514
+[Epoch 0 Batch 204/414] loss=1.3242, lr=0.0000050, acc=0.520
+[Epoch 0 Batch 208/414] loss=2.0247, lr=0.0000050, acc=0.521
+[Epoch 0 Batch 212/414] loss=2.1281, lr=0.0000050, acc=0.521
+[Epoch 0 Batch 216/414] loss=1.5528, lr=0.0000050, acc=0.523
+[Epoch 0 Batch 220/414] loss=1.6587, lr=0.0000050, acc=0.526
+[Epoch 0 Batch 224/414] loss=1.2672, lr=0.0000050, acc=0.529
+[Epoch 0 Batch 228/414] loss=1.6149, lr=0.0000050, acc=0.531
+[Epoch 0 Batch 232/414] loss=1.8467, lr=0.0000050, acc=0.532
+[Epoch 0 Batch 236/414] loss=1.4093, lr=0.0000050, acc=0.535
+[Epoch 0 Batch 240/414] loss=2.5742, lr=0.0000050, acc=0.532
+[Epoch 0 Batch 244/414] loss=1.7419, lr=0.0000050, acc=0.533
+[Epoch 0 Batch 248/414] loss=1.1842, lr=0.0000050, acc=0.538
+[Epoch 0 Batch 252/414] loss=0.7604, lr=0.0000050, acc=0.543
+[Epoch 0 Batch 256/414] loss=1.2075, lr=0.0000050, acc=0.547
+[Epoch 0 Batch 260/414] loss=1.1896, lr=0.0000050, acc=0.551
+[Epoch 0 Batch 264/414] loss=1.3488, lr=0.0000050, acc=0.553
+[Epoch 0 Batch 268/414] loss=1.4779, lr=0.0000050, acc=0.556
+[Epoch 0 Batch 272/414] loss=1.7478, lr=0.0000050, acc=0.556
+[Epoch 0 Batch 276/414] loss=2.1596, lr=0.0000050, acc=0.556
+[Epoch 0 Batch 280/414] loss=2.1848, lr=0.0000050, acc=0.555
+[Epoch 0 Batch 284/414] loss=1.6135, lr=0.0000050, acc=0.556
+[Epoch 0 Batch 288/414] loss=1.2948, lr=0.0000050, acc=0.558
+[Epoch 0 Batch 292/414] loss=2.0978, lr=0.0000050, acc=0.558
+[Epoch 0 Batch 296/414] loss=1.3785, lr=0.0000050, acc=0.560
+[Epoch 0 Batch 300/414] loss=1.2498, lr=0.0000050, acc=0.562
+[Epoch 0 Batch 304/414] loss=1.7152, lr=0.0000050, acc=0.563
+[Epoch 0 Batch 308/414] loss=1.1999, lr=0.0000050, acc=0.565
+[Epoch 0 Batch 312/414] loss=1.3661, lr=0.0000050, acc=0.567
+[Epoch 0 Batch 316/414] loss=0.3759, lr=0.0000050, acc=0.572
+[Epoch 0 Batch 320/414] loss=0.7711, lr=0.0000050, acc=0.576
+[Epoch 0 Batch 324/414] loss=1.8290, lr=0.0000050, acc=0.576
+[Epoch 0 Batch 328/414] loss=2.0158, lr=0.0000050, acc=0.575
+[Epoch 0 Batch 332/414] loss=1.4187, lr=0.0000050, acc=0.577
+[Epoch 0 Batch 336/414] loss=1.4045, lr=0.0000050, acc=0.578
+[Epoch 0 Batch 340/414] loss=0.9008, lr=0.0000050, acc=0.580
+[Epoch 0 Batch 344/414] loss=1.5128, lr=0.0000050, acc=0.581
+[Epoch 0 Batch 348/414] loss=1.3764, lr=0.0000050, acc=0.582
+[Epoch 0 Batch 352/414] loss=1.4468, lr=0.0000050, acc=0.584
+[Epoch 0 Batch 356/414] loss=2.0853, lr=0.0000050, acc=0.583
+[Epoch 0 Batch 360/414] loss=0.8250, lr=0.0000050, acc=0.586
+[Epoch 0 Batch 364/414] loss=1.3392, lr=0.0000050, acc=0.587
+[Epoch 0 Batch 368/414] loss=1.0526, lr=0.0000050, acc=0.589
+[Epoch 0 Batch 372/414] loss=1.3431, lr=0.0000050, acc=0.590
+[Epoch 0 Batch 376/414] loss=0.9463, lr=0.0000050, acc=0.593
+[Epoch 0 Batch 380/414] loss=1.9576, lr=0.0000050, acc=0.593
+[Epoch 0 Batch 384/414] loss=1.3046, lr=0.0000050, acc=0.594
+[Epoch 0 Batch 388/414] loss=1.2001, lr=0.0000050, acc=0.596
+[Epoch 0 Batch 392/414] loss=1.8816, lr=0.0000050, acc=0.595
+[Epoch 0 Batch 396/414] loss=1.1180, lr=0.0000050, acc=0.597
+[Epoch 0 Batch 400/414] loss=1.2250, lr=0.0000050, acc=0.598
+[Epoch 0 Batch 404/414] loss=1.7282, lr=0.0000050, acc=0.598
+[Epoch 0 Batch 408/414] loss=0.8330, lr=0.0000050, acc=0.600
+[Epoch 0 Batch 412/414] loss=0.6401, lr=0.0000050, acc=0.603
+[Epoch 1 Batch 4/414] loss=1.9598, lr=0.0000050, acc=0.562
+[Epoch 1 Batch 8/414] loss=0.6385, lr=0.0000050, acc=0.719
+[Epoch 1 Batch 12/414] loss=1.2260, lr=0.0000050, acc=0.724
+[Epoch 1 Batch 16/414] loss=0.6115, lr=0.0000050, acc=0.758
+[Epoch 1 Batch 20/414] loss=1.1236, lr=0.0000050, acc=0.755
+[Epoch 1 Batch 24/414] loss=1.6027, lr=0.0000050, acc=0.735
+[Epoch 1 Batch 28/414] loss=1.1790, lr=0.0000050, acc=0.731
+[Epoch 1 Batch 32/414] loss=1.5195, lr=0.0000050, acc=0.721
+[Epoch 1 Batch 36/414] loss=0.8625, lr=0.0000050, acc=0.731
+[Epoch 1 Batch 40/414] loss=1.5787, lr=0.0000050, acc=0.724
+[Epoch 1 Batch 44/414] loss=1.0728, lr=0.0000050, acc=0.726
+[Epoch 1 Batch 48/414] loss=1.2760, lr=0.0000050, acc=0.723
+[Epoch 1 Batch 52/414] loss=1.3657, lr=0.0000050, acc=0.723
+[Epoch 1 Batch 56/414] loss=1.2785, lr=0.0000050, acc=0.723
+[Epoch 1 Batch 60/414] loss=1.1084, lr=0.0000050, acc=0.725
+[Epoch 1 Batch 64/414] loss=1.3621, lr=0.0000050, acc=0.722
+[Epoch 1 Batch 68/414] loss=0.7782, lr=0.0000050, acc=0.729
+[Epoch 1 Batch 72/414] loss=1.4256, lr=0.0000050, acc=0.726
+[Epoch 1 Batch 76/414] loss=1.0034, lr=0.0000050, acc=0.727
+[Epoch 1 Batch 80/414] loss=0.5060, lr=0.0000050, acc=0.736
+[Epoch 1 Batch 84/414] loss=0.8974, lr=0.0000050, acc=0.740
+[Epoch 1 Batch 88/414] loss=0.5189, lr=0.0000050, acc=0.748
+[Epoch 1 Batch 92/414] loss=1.5658, lr=0.0000050, acc=0.743
+[Epoch 1 Batch 96/414] loss=0.4513, lr=0.0000050, acc=0.751
+[Epoch 1 Batch 100/414] loss=1.6454, lr=0.0000050, acc=0.744
+[Epoch 1 Batch 104/414] loss=0.7773, lr=0.0000050, acc=0.746
+[Epoch 1 Batch 108/414] loss=1.0052, lr=0.0000050, acc=0.747
+[Epoch 1 Batch 112/414] loss=1.2959, lr=0.0000050, acc=0.748
+[Epoch 1 Batch 116/414] loss=1.1123, lr=0.0000050, acc=0.747
+[Epoch 1 Batch 120/414] loss=0.7251, lr=0.0000050, acc=0.750
+[Epoch 1 Batch 124/414] loss=0.8987, lr=0.0000050, acc=0.751
+[Epoch 1 Batch 128/414] loss=1.5934, lr=0.0000050, acc=0.749
+[Epoch 1 Batch 132/414] loss=0.7713, lr=0.0000050, acc=0.752
+[Epoch 1 Batch 136/414] loss=0.7375, lr=0.0000050, acc=0.754
+[Epoch 1 Batch 140/414] loss=1.6567, lr=0.0000050, acc=0.751
+[Epoch 1 Batch 144/414] loss=1.3723, lr=0.0000050, acc=0.750
+[Epoch 1 Batch 148/414] loss=0.8108, lr=0.0000050, acc=0.753
+[Epoch 1 Batch 152/414] loss=0.9768, lr=0.0000050, acc=0.754
+[Epoch 1 Batch 156/414] loss=0.7300, lr=0.0000050, acc=0.757
+[Epoch 1 Batch 160/414] loss=0.9440, lr=0.0000050, acc=0.758
+[Epoch 1 Batch 164/414] loss=1.0142, lr=0.0000050, acc=0.758
+[Epoch 1 Batch 168/414] loss=0.8922, lr=0.0000050, acc=0.759
+[Epoch 1 Batch 172/414] loss=0.6306, lr=0.0000050, acc=0.761
+[Epoch 1 Batch 176/414] loss=0.4884, lr=0.0000050, acc=0.764
+[Epoch 1 Batch 180/414] loss=0.5640, lr=0.0000050, acc=0.768
+[Epoch 1 Batch 184/414] loss=1.8086, lr=0.0000050, acc=0.764
+[Epoch 1 Batch 188/414] loss=0.7712, lr=0.0000050, acc=0.766
+[Epoch 1 Batch 192/414] loss=0.6350, lr=0.0000050, acc=0.767
+[Epoch 1 Batch 196/414] loss=0.9423, lr=0.0000050, acc=0.768
+[Epoch 1 Batch 200/414] loss=0.8850, lr=0.0000050, acc=0.769
+[Epoch 1 Batch 204/414] loss=1.7515, lr=0.0000050, acc=0.766
+[Epoch 1 Batch 208/414] loss=1.3214, lr=0.0000050, acc=0.765
+[Epoch 1 Batch 212/414] loss=1.2653, lr=0.0000050, acc=0.763
+[Epoch 1 Batch 216/414] loss=1.0835, lr=0.0000050, acc=0.763
+[Epoch 1 Batch 220/414] loss=1.0385, lr=0.0000050, acc=0.764
+[Epoch 1 Batch 224/414] loss=0.8475, lr=0.0000050, acc=0.765
+[Epoch 1 Batch 228/414] loss=1.7716, lr=0.0000050, acc=0.761
+[Epoch 1 Batch 232/414] loss=1.5417, lr=0.0000050, acc=0.760
+[Epoch 1 Batch 236/414] loss=1.2223, lr=0.0000050, acc=0.760
+[Epoch 1 Batch 240/414] loss=0.7811, lr=0.0000050, acc=0.762
+[Epoch 1 Batch 244/414] loss=1.0350, lr=0.0000050, acc=0.762
+[Epoch 1 Batch 248/414] loss=1.3027, lr=0.0000050, acc=0.761
+[Epoch 1 Batch 252/414] loss=1.4905, lr=0.0000050, acc=0.760
+[Epoch 1 Batch 256/414] loss=1.2073, lr=0.0000050, acc=0.759
+[Epoch 1 Batch 260/414] loss=1.1478, lr=0.0000050, acc=0.759
+[Epoch 1 Batch 264/414] loss=1.0542, lr=0.0000050, acc=0.759
+[Epoch 1 Batch 268/414] loss=0.7493, lr=0.0000050, acc=0.761
+[Epoch 1 Batch 272/414] loss=1.4870, lr=0.0000050, acc=0.759
+[Epoch 1 Batch 276/414] loss=0.8093, lr=0.0000050, acc=0.760
+[Epoch 1 Batch 280/414] loss=0.6250, lr=0.0000050, acc=0.762
+[Epoch 1 Batch 284/414] loss=1.2621, lr=0.0000050, acc=0.762
+[Epoch 1 Batch 288/414] loss=1.0722, lr=0.0000050, acc=0.762
+[Epoch 1 Batch 292/414] loss=0.9270, lr=0.0000050, acc=0.762
+[Epoch 1 Batch 296/414] loss=1.2775, lr=0.0000050, acc=0.762
+[Epoch 1 Batch 300/414] loss=1.2249, lr=0.0000050, acc=0.762
+[Epoch 1 Batch 304/414] loss=1.0609, lr=0.0000050, acc=0.762
+[Epoch 1 Batch 308/414] loss=0.9910, lr=0.0000050, acc=0.762
+[Epoch 1 Batch 312/414] loss=1.0637, lr=0.0000050, acc=0.762
+[Epoch 1 Batch 316/414] loss=1.3745, lr=0.0000050, acc=0.760
+[Epoch 1 Batch 320/414] loss=0.7779, lr=0.0000050, acc=0.761
+[Epoch 1 Batch 324/414] loss=0.8241, lr=0.0000050, acc=0.762
+[Epoch 1 Batch 328/414] loss=1.5482, lr=0.0000050, acc=0.761
+[Epoch 1 Batch 332/414] loss=0.9604, lr=0.0000050, acc=0.762
+[Epoch 1 Batch 336/414] loss=1.1202, lr=0.0000050, acc=0.762
+[Epoch 1 Batch 340/414] loss=0.9192, lr=0.0000050, acc=0.761
+[Epoch 1 Batch 344/414] loss=1.3314, lr=0.0000050, acc=0.761
+[Epoch 1 Batch 348/414] loss=0.2518, lr=0.0000050, acc=0.764
+[Epoch 1 Batch 352/414] loss=0.6128, lr=0.0000050, acc=0.765
+[Epoch 1 Batch 356/414] loss=1.3207, lr=0.0000050, acc=0.765
+[Epoch 1 Batch 360/414] loss=0.4668, lr=0.0000050, acc=0.766
+[Epoch 1 Batch 364/414] loss=1.3977, lr=0.0000050, acc=0.765
+[Epoch 1 Batch 368/414] loss=1.4144, lr=0.0000050, acc=0.764
+[Epoch 1 Batch 372/414] loss=1.4528, lr=0.0000050, acc=0.764
+[Epoch 1 Batch 376/414] loss=0.7049, lr=0.0000050, acc=0.765
+[Epoch 1 Batch 380/414] loss=1.2993, lr=0.0000050, acc=0.765
+[Epoch 1 Batch 384/414] loss=0.6021, lr=0.0000050, acc=0.765
+[Epoch 1 Batch 388/414] loss=0.6992, lr=0.0000050, acc=0.766
+[Epoch 1 Batch 392/414] loss=0.8185, lr=0.0000050, acc=0.767
+[Epoch 1 Batch 396/414] loss=0.9390, lr=0.0000050, acc=0.767
+[Epoch 1 Batch 400/414] loss=1.4568, lr=0.0000050, acc=0.766
+[Epoch 1 Batch 404/414] loss=1.3979, lr=0.0000050, acc=0.765
+[Epoch 1 Batch 408/414] loss=0.6738, lr=0.0000050, acc=0.766
+[Epoch 1 Batch 412/414] loss=0.9046, lr=0.0000050, acc=0.767
+[Epoch 2 Batch 4/414] loss=1.1881, lr=0.0000050, acc=0.750
+[Epoch 2 Batch 8/414] loss=1.4657, lr=0.0000050, acc=0.711
+[Epoch 2 Batch 12/414] loss=1.4861, lr=0.0000050, acc=0.709
+[Epoch 2 Batch 16/414] loss=0.4893, lr=0.0000050, acc=0.755
+[Epoch 2 Batch 20/414] loss=0.8067, lr=0.0000050, acc=0.761
+[Epoch 2 Batch 24/414] loss=0.9663, lr=0.0000050, acc=0.756
+[Epoch 2 Batch 28/414] loss=0.7374, lr=0.0000050, acc=0.774
+[Epoch 2 Batch 32/414] loss=1.1067, lr=0.0000050, acc=0.775
+[Epoch 2 Batch 36/414] loss=0.4206, lr=0.0000050, acc=0.794
+[Epoch 2 Batch 40/414] loss=0.6814, lr=0.0000050, acc=0.799
+[Epoch 2 Batch 44/414] loss=1.1011, lr=0.0000050, acc=0.794
+[Epoch 2 Batch 48/414] loss=0.7939, lr=0.0000050, acc=0.799
+[Epoch 2 Batch 52/414] loss=1.0778, lr=0.0000050, acc=0.795
+[Epoch 2 Batch 56/414] loss=1.4353, lr=0.0000050, acc=0.787
+[Epoch 2 Batch 60/414] loss=0.8518, lr=0.0000050, acc=0.789
+[Epoch 2 Batch 64/414] loss=0.7110, lr=0.0000050, acc=0.794
+[Epoch 2 Batch 68/414] loss=0.6119, lr=0.0000050, acc=0.798
+[Epoch 2 Batch 72/414] loss=1.4440, lr=0.0000050, acc=0.790
+[Epoch 2 Batch 76/414] loss=0.6539, lr=0.0000050, acc=0.795
+[Epoch 2 Batch 80/414] loss=0.6548, lr=0.0000050, acc=0.799
+[Epoch 2 Batch 84/414] loss=0.4384, lr=0.0000050, acc=0.803
+[Epoch 2 Batch 88/414] loss=0.8423, lr=0.0000050, acc=0.807
+[Epoch 2 Batch 92/414] loss=1.0199, lr=0.0000050, acc=0.808
+[Epoch 2 Batch 96/414] loss=0.9850, lr=0.0000050, acc=0.805
+[Epoch 2 Batch 100/414] loss=0.8009, lr=0.0000050, acc=0.806
+[Epoch 2 Batch 104/414] loss=0.6979, lr=0.0000050, acc=0.809
+[Epoch 2 Batch 108/414] loss=0.8443, lr=0.0000050, acc=0.809
+[Epoch 2 Batch 112/414] loss=0.9946, lr=0.0000050, acc=0.808
+[Epoch 2 Batch 116/414] loss=0.5211, lr=0.0000050, acc=0.811
+[Epoch 2 Batch 120/414] loss=0.8475, lr=0.0000050, acc=0.811
+[Epoch 2 Batch 124/414] loss=0.9237, lr=0.0000050, acc=0.811
+[Epoch 2 Batch 128/414] loss=0.6491, lr=0.0000050, acc=0.812
+[Epoch 2 Batch 132/414] loss=0.3890, lr=0.0000050, acc=0.816
+[Epoch 2 Batch 136/414] loss=0.9182, lr=0.0000050, acc=0.815
+[Epoch 2 Batch 140/414] loss=0.7046, lr=0.0000050, acc=0.817
+[Epoch 2 Batch 144/414] loss=0.5108, lr=0.0000050, acc=0.819
+[Epoch 2 Batch 148/414] loss=0.5948, lr=0.0000050, acc=0.821
+[Epoch 2 Batch 152/414] loss=0.7870, lr=0.0000050, acc=0.820
+[Epoch 2 Batch 156/414] loss=0.8389, lr=0.0000050, acc=0.819
+[Epoch 2 Batch 160/414] loss=0.9250, lr=0.0000050, acc=0.818
+[Epoch 2 Batch 164/414] loss=1.3095, lr=0.0000050, acc=0.816
+[Epoch 2 Batch 168/414] loss=0.9616, lr=0.0000050, acc=0.816
+[Epoch 2 Batch 172/414] loss=0.9210, lr=0.0000050, acc=0.815
+[Epoch 2 Batch 176/414] loss=0.6202, lr=0.0000050, acc=0.818
+[Epoch 2 Batch 180/414] loss=1.0428, lr=0.0000050, acc=0.816
+[Epoch 2 Batch 184/414] loss=1.1273, lr=0.0000050, acc=0.814
+[Epoch 2 Batch 188/414] loss=1.0043, lr=0.0000050, acc=0.813
+[Epoch 2 Batch 192/414] loss=0.5035, lr=0.0000050, acc=0.814
+[Epoch 2 Batch 196/414] loss=0.8401, lr=0.0000050, acc=0.814
+[Epoch 2 Batch 200/414] loss=0.4665, lr=0.0000050, acc=0.816
+[Epoch 2 Batch 204/414] loss=0.6682, lr=0.0000050, acc=0.817
+[Epoch 2 Batch 208/414] loss=0.8726, lr=0.0000050, acc=0.817
+[Epoch 2 Batch 212/414] loss=0.8626, lr=0.0000050, acc=0.817
+[Epoch 2 Batch 216/414] loss=0.4582, lr=0.0000050, acc=0.819
+[Epoch 2 Batch 220/414] loss=1.0612, lr=0.0000050, acc=0.819
+[Epoch 2 Batch 224/414] loss=1.3629, lr=0.0000050, acc=0.817
+[Epoch 2 Batch 228/414] loss=0.8511, lr=0.0000050, acc=0.818
+[Epoch 2 Batch 232/414] loss=0.7196, lr=0.0000050, acc=0.818
+[Epoch 2 Batch 236/414] loss=0.5231, lr=0.0000050, acc=0.819
+[Epoch 2 Batch 240/414] loss=0.7315, lr=0.0000050, acc=0.820
+[Epoch 2 Batch 244/414] loss=0.8117, lr=0.0000050, acc=0.820
+[Epoch 2 Batch 248/414] loss=0.5770, lr=0.0000050, acc=0.821
+[Epoch 2 Batch 252/414] loss=0.8269, lr=0.0000050, acc=0.820
+[Epoch 2 Batch 256/414] loss=0.5193, lr=0.0000050, acc=0.822
+[Epoch 2 Batch 260/414] loss=1.0738, lr=0.0000050, acc=0.821
+[Epoch 2 Batch 264/414] loss=0.6495, lr=0.0000050, acc=0.821
+[Epoch 2 Batch 268/414] loss=0.9405, lr=0.0000050, acc=0.821
+[Epoch 2 Batch 272/414] loss=0.5430, lr=0.0000050, acc=0.821
+[Epoch 2 Batch 276/414] loss=0.6638, lr=0.0000050, acc=0.822
+[Epoch 2 Batch 280/414] loss=0.6737, lr=0.0000050, acc=0.822
+[Epoch 2 Batch 284/414] loss=0.5675, lr=0.0000050, acc=0.823
+[Epoch 2 Batch 288/414] loss=1.3449, lr=0.0000050, acc=0.822
+[Epoch 2 Batch 292/414] loss=1.1365, lr=0.0000050, acc=0.821
+[Epoch 2 Batch 296/414] loss=0.9173, lr=0.0000050, acc=0.821
+[Epoch 2 Batch 300/414] loss=0.4875, lr=0.0000050, acc=0.822
+[Epoch 2 Batch 304/414] loss=0.6513, lr=0.0000050, acc=0.823
+[Epoch 2 Batch 308/414] loss=0.9647, lr=0.0000050, acc=0.822
+[Epoch 2 Batch 312/414] loss=0.5764, lr=0.0000050, acc=0.823
+[Epoch 2 Batch 316/414] loss=0.3188, lr=0.0000050, acc=0.824
+[Epoch 2 Batch 320/414] loss=1.1050, lr=0.0000050, acc=0.823
+[Epoch 2 Batch 324/414] loss=0.7925, lr=0.0000050, acc=0.823
+[Epoch 2 Batch 328/414] loss=0.3066, lr=0.0000050, acc=0.824
+[Epoch 2 Batch 332/414] loss=0.6938, lr=0.0000050, acc=0.825
+[Epoch 2 Batch 336/414] loss=1.0754, lr=0.0000050, acc=0.824
+[Epoch 2 Batch 340/414] loss=0.8350, lr=0.0000050, acc=0.823
+[Epoch 2 Batch 344/414] loss=0.9056, lr=0.0000050, acc=0.823
+[Epoch 2 Batch 348/414] loss=1.0344, lr=0.0000050, acc=0.822
+[Epoch 2 Batch 352/414] loss=1.0765, lr=0.0000050, acc=0.822
+[Epoch 2 Batch 356/414] loss=1.4041, lr=0.0000050, acc=0.820
+[Epoch 2 Batch 360/414] loss=0.8963, lr=0.0000050, acc=0.820
+[Epoch 2 Batch 364/414] loss=0.5433, lr=0.0000050, acc=0.821
+[Epoch 2 Batch 368/414] loss=0.7318, lr=0.0000050, acc=0.821
+[Epoch 2 Batch 372/414] loss=0.4487, lr=0.0000050, acc=0.822
+[Epoch 2 Batch 376/414] loss=0.3520, lr=0.0000050, acc=0.822
+[Epoch 2 Batch 380/414] loss=0.5859, lr=0.0000050, acc=0.822
+[Epoch 2 Batch 384/414] loss=1.0434, lr=0.0000050, acc=0.822
+[Epoch 2 Batch 388/414] loss=0.8578, lr=0.0000050, acc=0.822
+[Epoch 2 Batch 392/414] loss=0.4634, lr=0.0000050, acc=0.822
+[Epoch 2 Batch 396/414] loss=0.8129, lr=0.0000050, acc=0.823
+[Epoch 2 Batch 400/414] loss=0.6883, lr=0.0000050, acc=0.823
+[Epoch 2 Batch 404/414] loss=1.1064, lr=0.0000050, acc=0.823
+[Epoch 2 Batch 408/414] loss=0.6723, lr=0.0000050, acc=0.823
+[Epoch 2 Batch 412/414] loss=0.2055, lr=0.0000050, acc=0.824
+[Epoch 3 Batch 4/414] loss=1.2032, lr=0.0000050, acc=0.734
+[Epoch 3 Batch 8/414] loss=0.5262, lr=0.0000050, acc=0.805
+[Epoch 3 Batch 12/414] loss=0.4604, lr=0.0000050, acc=0.839
+[Epoch 3 Batch 16/414] loss=1.1292, lr=0.0000050, acc=0.820
+[Epoch 3 Batch 20/414] loss=0.7862, lr=0.0000050, acc=0.822
+[Epoch 3 Batch 24/414] loss=0.9774, lr=0.0000050, acc=0.820
+[Epoch 3 Batch 28/414] loss=1.1123, lr=0.0000050, acc=0.812
+[Epoch 3 Batch 32/414] loss=0.7489, lr=0.0000050, acc=0.818
+[Epoch 3 Batch 36/414] loss=0.6310, lr=0.0000050, acc=0.823
+[Epoch 3 Batch 40/414] loss=0.7748, lr=0.0000050, acc=0.827
+[Epoch 3 Batch 44/414] loss=0.6314, lr=0.0000050, acc=0.830
+[Epoch 3 Batch 48/414] loss=0.6533, lr=0.0000050, acc=0.835
+[Epoch 3 Batch 52/414] loss=0.5453, lr=0.0000050, acc=0.840
+[Epoch 3 Batch 56/414] loss=0.6910, lr=0.0000050, acc=0.842
+[Epoch 3 Batch 60/414] loss=1.0092, lr=0.0000050, acc=0.839
+[Epoch 3 Batch 64/414] loss=0.6266, lr=0.0000050, acc=0.839
+[Epoch 3 Batch 68/414] loss=0.6065, lr=0.0000050, acc=0.838
+[Epoch 3 Batch 72/414] loss=0.4800, lr=0.0000050, acc=0.843
+[Epoch 3 Batch 76/414] loss=1.1992, lr=0.0000050, acc=0.845
+[Epoch 3 Batch 80/414] loss=0.9995, lr=0.0000050, acc=0.843
+[Epoch 3 Batch 84/414] loss=0.2334, lr=0.0000050, acc=0.848
+[Epoch 3 Batch 88/414] loss=1.1052, lr=0.0000050, acc=0.847
+[Epoch 3 Batch 92/414] loss=0.6388, lr=0.0000050, acc=0.848
+[Epoch 3 Batch 96/414] loss=1.0856, lr=0.0000050, acc=0.845
+[Epoch 3 Batch 100/414] loss=0.6027, lr=0.0000050, acc=0.846
+[Epoch 3 Batch 104/414] loss=1.0676, lr=0.0000050, acc=0.844
+[Epoch 3 Batch 108/414] loss=0.6108, lr=0.0000050, acc=0.846
+[Epoch 3 Batch 112/414] loss=0.8725, lr=0.0000050, acc=0.845
+[Epoch 3 Batch 116/414] loss=0.6256, lr=0.0000050, acc=0.846
+[Epoch 3 Batch 120/414] loss=0.5253, lr=0.0000050, acc=0.848
+[Epoch 3 Batch 124/414] loss=0.5955, lr=0.0000050, acc=0.849
+[Epoch 3 Batch 128/414] loss=0.4855, lr=0.0000050, acc=0.851
+[Epoch 3 Batch 132/414] loss=0.9065, lr=0.0000050, acc=0.849
+[Epoch 3 Batch 136/414] loss=0.6048, lr=0.0000050, acc=0.851
+[Epoch 3 Batch 140/414] loss=1.0162, lr=0.0000050, acc=0.850
+[Epoch 3 Batch 144/414] loss=0.6109, lr=0.0000050, acc=0.851
+[Epoch 3 Batch 148/414] loss=0.4315, lr=0.0000050, acc=0.852
+[Epoch 3 Batch 152/414] loss=0.3906, lr=0.0000050, acc=0.854
+[Epoch 3 Batch 156/414] loss=0.2192, lr=0.0000050, acc=0.856
+[Epoch 3 Batch 160/414] loss=0.3353, lr=0.0000050, acc=0.858
+[Epoch 3 Batch 164/414] loss=0.4382, lr=0.0000050, acc=0.859
+[Epoch 3 Batch 168/414] loss=0.9019, lr=0.0000050, acc=0.858
+[Epoch 3 Batch 172/414] loss=0.8079, lr=0.0000050, acc=0.858
+[Epoch 3 Batch 176/414] loss=0.6982, lr=0.0000050, acc=0.859
+[Epoch 3 Batch 180/414] loss=0.3784, lr=0.0000050, acc=0.860
+[Epoch 3 Batch 184/414] loss=0.2644, lr=0.0000050, acc=0.863
+[Epoch 3 Batch 188/414] loss=0.5107, lr=0.0000050, acc=0.864
+[Epoch 3 Batch 192/414] loss=0.5362, lr=0.0000050, acc=0.864
+[Epoch 3 Batch 196/414] loss=0.4830, lr=0.0000050, acc=0.865
+[Epoch 3 Batch 200/414] loss=0.8017, lr=0.0000050, acc=0.865
+[Epoch 3 Batch 204/414] loss=0.7979, lr=0.0000050, acc=0.864
+[Epoch 3 Batch 208/414] loss=1.1534, lr=0.0000050, acc=0.863
+[Epoch 3 Batch 212/414] loss=1.0563, lr=0.0000050, acc=0.862
+[Epoch 3 Batch 216/414] loss=0.7105, lr=0.0000050, acc=0.861
+[Epoch 3 Batch 220/414] loss=0.8839, lr=0.0000050, acc=0.860
+[Epoch 3 Batch 224/414] loss=0.4080, lr=0.0000050, acc=0.862
+[Epoch 3 Batch 228/414] loss=0.8871, lr=0.0000050, acc=0.861
+[Epoch 3 Batch 232/414] loss=0.6505, lr=0.0000050, acc=0.861
+[Epoch 3 Batch 236/414] loss=0.1968, lr=0.0000050, acc=0.862
+[Epoch 3 Batch 240/414] loss=0.8442, lr=0.0000050, acc=0.861
+[Epoch 3 Batch 244/414] loss=0.1959, lr=0.0000050, acc=0.864
+[Epoch 3 Batch 248/414] loss=0.6469, lr=0.0000050, acc=0.864
+[Epoch 3 Batch 252/414] loss=0.5483, lr=0.0000050, acc=0.864
+[Epoch 3 Batch 256/414] loss=0.5387, lr=0.0000050, acc=0.865
+[Epoch 3 Batch 260/414] loss=0.8427, lr=0.0000050, acc=0.864
+[Epoch 3 Batch 264/414] loss=1.0350, lr=0.0000050, acc=0.863
+[Epoch 3 Batch 268/414] loss=0.8088, lr=0.0000050, acc=0.862
+[Epoch 3 Batch 272/414] loss=0.2881, lr=0.0000050, acc=0.864
+[Epoch 3 Batch 276/414] loss=0.3127, lr=0.0000050, acc=0.865
+[Epoch 3 Batch 280/414] loss=0.8109, lr=0.0000050, acc=0.864
+[Epoch 3 Batch 284/414] loss=0.5775, lr=0.0000050, acc=0.865
+[Epoch 3 Batch 288/414] loss=0.5641, lr=0.0000050, acc=0.865
+[Epoch 3 Batch 292/414] loss=0.5426, lr=0.0000050, acc=0.865
+[Epoch 3 Batch 296/414] loss=0.7246, lr=0.0000050, acc=0.866
+[Epoch 3 Batch 300/414] loss=0.3672, lr=0.0000050, acc=0.867
+[Epoch 3 Batch 304/414] loss=0.7641, lr=0.0000050, acc=0.867
+[Epoch 3 Batch 308/414] loss=0.8783, lr=0.0000050, acc=0.866
+[Epoch 3 Batch 312/414] loss=0.4296, lr=0.0000050, acc=0.867
+[Epoch 3 Batch 316/414] loss=0.4039, lr=0.0000050, acc=0.868
+[Epoch 3 Batch 320/414] loss=0.3241, lr=0.0000050, acc=0.869
+[Epoch 3 Batch 324/414] loss=0.5768, lr=0.0000050, acc=0.869
+[Epoch 3 Batch 328/414] loss=0.4322, lr=0.0000050, acc=0.870
+[Epoch 3 Batch 332/414] loss=0.2915, lr=0.0000050, acc=0.871
+[Epoch 3 Batch 336/414] loss=0.4427, lr=0.0000050, acc=0.871
+[Epoch 3 Batch 340/414] loss=0.8233, lr=0.0000050, acc=0.870
+[Epoch 3 Batch 344/414] loss=0.2575, lr=0.0000050, acc=0.871
+[Epoch 3 Batch 348/414] loss=0.5473, lr=0.0000050, acc=0.871
+[Epoch 3 Batch 352/414] loss=1.0479, lr=0.0000050, acc=0.870
+[Epoch 3 Batch 356/414] loss=0.5614, lr=0.0000050, acc=0.871
+[Epoch 3 Batch 360/414] loss=0.1396, lr=0.0000050, acc=0.872
+[Epoch 3 Batch 364/414] loss=0.4876, lr=0.0000050, acc=0.872
+[Epoch 3 Batch 368/414] loss=0.3084, lr=0.0000050, acc=0.873
+[Epoch 3 Batch 372/414] loss=0.4629, lr=0.0000050, acc=0.874
+[Epoch 3 Batch 376/414] loss=0.7476, lr=0.0000050, acc=0.873
+[Epoch 3 Batch 380/414] loss=0.6212, lr=0.0000050, acc=0.873
+[Epoch 3 Batch 384/414] loss=0.4904, lr=0.0000050, acc=0.874
+[Epoch 3 Batch 388/414] loss=0.5141, lr=0.0000050, acc=0.874
+[Epoch 3 Batch 392/414] loss=0.3492, lr=0.0000050, acc=0.875
+[Epoch 3 Batch 396/414] loss=0.7049, lr=0.0000050, acc=0.875
+[Epoch 3 Batch 400/414] loss=0.7143, lr=0.0000050, acc=0.874
+[Epoch 3 Batch 404/414] loss=0.6133, lr=0.0000050, acc=0.875
+[Epoch 3 Batch 408/414] loss=1.0716, lr=0.0000050, acc=0.874
+[Epoch 3 Batch 412/414] loss=0.5227, lr=0.0000050, acc=0.874
+Saving model at  ./model_bert_r52_base
+load symbol file directly as SymbolBlock for model deployment.
+[Batch 4/165], acc = 0.873
+[Batch 8/165], acc = 0.874
+[Batch 12/165], acc = 0.873
+[Batch 16/165], acc = 0.873
+[Batch 20/165], acc = 0.873
+[Batch 24/165], acc = 0.873
+[Batch 28/165], acc = 0.873
+[Batch 32/165], acc = 0.873
+[Batch 36/165], acc = 0.873
+[Batch 40/165], acc = 0.873
+[Batch 44/165], acc = 0.873
+[Batch 48/165], acc = 0.874
+[Batch 52/165], acc = 0.874
+[Batch 56/165], acc = 0.874
+[Batch 60/165], acc = 0.874
+[Batch 64/165], acc = 0.873
+[Batch 68/165], acc = 0.873
+[Batch 72/165], acc = 0.873
+[Batch 76/165], acc = 0.874
+[Batch 80/165], acc = 0.873
+[Batch 84/165], acc = 0.873
+[Batch 88/165], acc = 0.873
+[Batch 92/165], acc = 0.873
+[Batch 96/165], acc = 0.873
+[Batch 100/165], acc = 0.873
+[Batch 104/165], acc = 0.873
+[Batch 108/165], acc = 0.873
+[Batch 112/165], acc = 0.873
+[Batch 116/165], acc = 0.873
+[Batch 120/165], acc = 0.872
+[Batch 124/165], acc = 0.873
+[Batch 128/165], acc = 0.872
+[Batch 132/165], acc = 0.873
+[Batch 136/165], acc = 0.872
+[Batch 140/165], acc = 0.873
+[Batch 144/165], acc = 0.873
+[Batch 148/165], acc = 0.873
+[Batch 152/165], acc = 0.873
+[Batch 156/165], acc = 0.872
+[Batch 160/165], acc = 0.873
+[Batch 164/165], acc = 0.872
+EvalMetric: {'accuracy': 0.8725274725274725}
+Time cost = 23.75 s, throughput = 111.16 samples/s
