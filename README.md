@@ -18,8 +18,10 @@ Course project of EE398 in SJTU.
 
 | Dataset | Number of classes | Training set | Testing set |
 | ------ | ------ | ------ | ------ |
-| WebKB | 4 | 900 | 496 |
-| Reuters 21578 | 52 | 1800 | 768 |
+| WebKB | 4 | 2803 | 1396 |
+| Reuters 21578-r8 | 8 | 5485 | 2189 |
+| Reuters 21578-r52 | 52 | 6532 | 2568 |
+| Cade(Portuguese) | 12 | 27322 | 13661 |
 
 ## Performance & Accuracy
 Inference speed:
@@ -29,14 +31,16 @@ Inference speed:
 | CPU | 1.64 samples/s | 0.52 samples/s |
 | GPU | 114.49 samples/s | 34.83 samples/s |
 
-| Reuters 21578 | bert_12_768_12 | bert_24_1024_16 |
+| Reuters 21578-r52 | bert_12_768_12 | bert_24_1024_16 |
 | ------ | ------ | ------ |
 | CPU | 1.59 samples/s | 0.52 samples/s |
 | GPU | 118.03 samples/s | 35.16 samples/s |
 
-The accuracy is much better on bert large than on bert base. 
+The accuracy is much better on bert large than on bert base. The following chart shows the inference accuracy after 4 epoches.
 
 | Accuracy | bert_12_768_12 | bert_24_1024_16 |
 | ------ | ------ | ------ |
-| WebKB | 0.836 | 0.914 |
-| Reuters 21578 | 0.786 | 0.847 |
+| WebKB | 0.927 | 0.944 |
+| Reuters 21578-r8 | 0.986 | 0.987 |
+| Reuters 21578-r52 | 0.873 | 0.936 |
+| Cade | ---- | 0.618 |
